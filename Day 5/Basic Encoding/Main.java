@@ -19,7 +19,6 @@ class Main {
             System.out.println(0);
             return;
         }
-
         long minFreq = Long.MAX_VALUE;
         long maxFreq = Long.MIN_VALUE;
 
